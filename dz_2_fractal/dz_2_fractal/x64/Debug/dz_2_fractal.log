@@ -1,0 +1,325 @@
+﻿  my_image8.cpp
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(107,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(108,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(110,53): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(110,53): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(110,53): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(110,53): warning C4244:             _Ty=unsigned char
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(110,53): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(187,27): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(193,27): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(199,27): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(205,27): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(251,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(254,13): warning C4244: return: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(273,40): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(274,17): warning C4267: аргумент: преобразование из "size_t" в "const _Ty"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(274,17): warning C4267:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(274,17): warning C4267:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(274,17): warning C4267:             _Ty=int
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(274,17): warning C4267:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(275,17): warning C4267: аргумент: преобразование из "size_t" в "const _Ty"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(275,17): warning C4267:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(275,17): warning C4267:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(275,17): warning C4267:             _Ty=int
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(275,17): warning C4267:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(286,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(289,8): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(295,60): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(295,60): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(295,60): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(295,60): warning C4244:             _Ty=int
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(295,60): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(295,60): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(295,60): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(295,60): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(295,60): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(296,60): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(296,60): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(296,60): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(296,60): warning C4244:             _Ty=int
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(296,60): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(296,60): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(296,60): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(296,60): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(296,60): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(302,75): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(303,77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(304,77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(305,79): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(314,9): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(321,61): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(321,61): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(321,61): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(321,61): warning C4244:             _Ty=int
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(321,61): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(321,61): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(321,61): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(321,61): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(321,61): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(322,61): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(322,61): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(322,61): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(322,61): warning C4244:             _Ty=int
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(322,61): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(322,61): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(322,61): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(322,61): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(322,61): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(326,9): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(333,63): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(333,63): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(333,63): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(333,63): warning C4244:             _Ty=int
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(333,63): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(333,63): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(333,63): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(333,63): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(333,63): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(334,63): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(334,63): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(334,63): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(334,63): warning C4244:             _Ty=int
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(334,63): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(334,63): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(334,63): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(334,63): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(334,63): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(338,9): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(345,64): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(345,64): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(345,64): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(345,64): warning C4244:             _Ty=int
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(345,64): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(345,64): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(345,64): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(345,64): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(345,64): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(346,64): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(346,64): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(346,64): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(346,64): warning C4244:             _Ty=int
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(346,64): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(346,64): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(346,64): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(346,64): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(346,64): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(350,9): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(357,68): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(357,68): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(357,68): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(357,68): warning C4244:             _Ty=int
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(357,68): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(357,68): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(357,68): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(357,68): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(357,68): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(358,68): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(358,68): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(358,68): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(358,68): warning C4244:             _Ty=int
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(358,68): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(358,68): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(358,68): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(358,68): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(358,68): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(364,142): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(364,142): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(364,142): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(364,142): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(364,142): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(364,111): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(364,111): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(364,111): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(364,111): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(364,111): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(368,147): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(368,147): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(368,147): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(368,147): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(368,147): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(368,114): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(368,114): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(368,114): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(368,114): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(368,114): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(370,75): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(395,43): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(395,43): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(395,43): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(395,43): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(395,43): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(396,53): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(396,53): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(396,53): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(396,53): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(396,53): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(400,114): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(400,114): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(400,114): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(400,114): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(400,114): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(400,77): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(400,77): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(400,77): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(400,77): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(400,77): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(402,77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(427,47): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(427,47): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(427,47): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(427,47): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(427,47): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(428,57): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(428,57): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(428,57): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(428,57): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(428,57): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(433,114): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(433,114): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(433,114): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(433,114): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(433,114): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(433,77): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(433,77): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(433,77): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(433,77): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(433,77): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(435,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(460,47): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(460,47): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(460,47): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(460,47): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(460,47): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(461,57): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(461,57): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(461,57): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(461,57): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(461,57): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(464,122): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(464,122): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(464,122): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(464,122): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(464,122): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(464,81): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(464,81): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(464,81): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(464,81): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(464,81): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(466,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(491,51): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(491,51): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(491,51): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(491,51): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(491,51): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(492,61): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(492,61): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(492,61): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(492,61): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(492,61): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(520,43): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(520,43): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(520,43): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(520,43): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(520,43): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(521,53): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(521,53): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(521,53): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(521,53): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(521,53): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(564,111): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(564,111): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(564,111): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(564,111): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(564,111): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(564,78): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(564,78): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(564,78): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(564,78): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(564,78): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(571,91): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(571,91): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(571,91): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(571,91): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(571,91): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(571,91): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(571,91): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(571,91): warning C4244:             _Ty=unsigned char
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(571,91): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(575,115): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(575,115): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(575,115): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(575,115): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(575,115): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(575,80): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(575,80): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(575,80): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(575,80): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(575,80): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(582,98): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(582,98): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(582,98): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(582,98): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(582,98): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(582,98): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(582,98): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(582,98): warning C4244:             _Ty=unsigned char
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(582,98): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(586,115): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(586,115): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(586,115): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(586,115): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(586,115): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(586,80): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(586,80): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(586,80): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(586,80): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(586,80): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(593,98): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(593,98): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(593,98): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(593,98): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(593,98): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(593,98): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(593,98): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(593,98): warning C4244:             _Ty=unsigned char
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(593,98): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(597,123): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(597,123): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(597,123): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(597,123): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(597,123): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(597,84): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(597,84): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(597,84): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(597,84): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(597,84): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(604,104): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(604,104): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(604,104): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(604,104): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(604,104): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(604,104): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(604,104): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(604,104): warning C4244:             _Ty=unsigned char
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(604,104): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(610,115): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(610,115): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(610,115): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(610,115): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(610,115): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(610,80): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(610,80): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(610,80): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(610,80): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(610,80): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(613,96): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(613,96): warning C4244:         with
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(613,96): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(613,96): warning C4244:             _Ty=float
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(613,96): warning C4244:         ]
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(613,96): warning C4244:         and
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(613,96): warning C4244:         [
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(613,96): warning C4244:             _Ty=unsigned char
+C:\Users\natal\source\repos\dz_2_fractal\dz_2_fractal\my_image8.cpp(613,96): warning C4244:         ]
+  dz_2_fractal.vcxproj -> C:\Users\natal\source\repos\dz_2_fractal\x64\Debug\dz_2_fractal.exe
