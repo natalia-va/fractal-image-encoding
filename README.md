@@ -7,9 +7,10 @@
 
 Оригинал:
 
-![Иллюстрация к проекту](https://github.com/natalia-va/fractal-image-encoding/blob/main/img/Goldhill.bmp)
+![Иллюстрация к проекту](https://github.com/natalia-va/fractal-image-encoding/blob/main/img/Boat.bmp)
 
 
 Восстановленное:
 
-![Иллюстрация к проекту](https://github.com/natalia-va/fractal-image-encoding/blob/main/img/Goldhill1.bmp)
+![Иллюстрация к проекту](https://github.com/natalia-va/fractal-image-encoding/blob/main/img/Boat1.bmp)
+
